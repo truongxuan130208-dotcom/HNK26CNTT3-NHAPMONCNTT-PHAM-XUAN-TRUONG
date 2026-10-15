@@ -7,7 +7,7 @@ ___
 #### Tôi tên là Trường , quê tôi ở hải dương nay thuộc thành phố Hải Phòng , hiện nay tôi đang học ngành CNTT tại trường PTIT 🥰.*Sở thích của tôi là nghe nhạc*,~~thói quen cũ đã bỏ là nạp game~~ .
 ---
 ## 3 sở thích của tôi
-1.  chơi game
+- chơi game
 
 2. - đá bóng
 3.	ca hát
