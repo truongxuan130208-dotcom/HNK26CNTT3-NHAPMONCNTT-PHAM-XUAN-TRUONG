@@ -19,7 +19,7 @@ ___
 ***
 ### Mục tiêu của tôi trong năm nhất
 1. Qua môn
-2. - Chuyên cần 100
+2. Chuyên cần 100
 3. Điểm R-Point trên 90
 ***
 ### Thời Khóa Biểu
